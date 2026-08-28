@@ -1,0 +1,37 @@
+---
+title: "Informativa sulla Privacy"
+subtitle: "Ai sensi del Regolamento UE 2016/679 (GDPR)"
+page-layout: article
+css: styles.css
+---
+
+[← Torna alla Home](index.html)
+
+---
+
+### 1. Titolare del Trattamento
+Il Titolare del trattamento dei dati è la **Dott.ssa Claudia Virginia Manara**, con sede legale in Via Tigor 14, 34124 Trieste (TS), P.IVA 01305600072, Email: [claudiavirginiamanara@gmail.com](mailto:claudiavirginiamanara@gmail.com).
+
+### 2. Tipologia di Dati Trattati
+Il presente sito web ha natura esclusivamente informativa (sito vetrina statico). Non sono presenti moduli di contatto diretti né aree di registrazione utente.
+
+* **Dati di navigazione:** I sistemi informatici e le procedure software preposte al funzionamento di questo sito web acquisiscono, nel corso del loro normale esercizio, alcuni dati personali la cui trasmissione è implicita nell'uso dei protocolli di comunicazione di Internet (es. indirizzi IP, orari delle richieste).
+* **Cookie:** Il sito non utilizza cookie di profilazione né cookie di terze parti per il tracciamento degli utenti. Possono essere presenti esclusivamente cookie tecnici strettamente necessari al corretto funzionamento della navigazione.
+
+### 3. Finalità del Trattamento e Strumenti di Analisi
+I dati di navigazione vengono trattati al solo fine di garantire la corretta visualizzazione e fruizione delle pagine web. 
+Eventuali strumenti di monitoraggio dell'indicizzazione (es. Google Search Console) forniscono unicamente dati statistici aggregati ed anonimi che non consentono l'identificazione diretta dell'utente.
+
+### 4. Luogo di Trattamento e Custodia Dati
+I dati sono ospitati presso i server del fornitore di hosting GitHub Pages (GitHub Inc.), che garantisce il rispetto della normativa GDPR. Qualora i dati venissero trasferiti verso paesi extra-UE, il trasferimento avverrà in conformità alle decisioni di adeguatezza della Commissione Europea o sulla base di Clausole Contrattuali Standard.
+
+### 5. Diritti dell'Interessato
+In qualsiasi momento, l'utente può esercitare i propri diritti sanciti dagli artt. 15 e ss. del Regolamento UE 2016/679, tra cui:
+* Richiedere l'accesso ai propri dati personali
+* Richiederne la rettifica o la cancellazione
+* Richiedere la limitazione del trattamento o opporsi ad esso
+
+Per esercitare tali diritti è sufficiente inviare una comunicazione via e-mail all'indirizzo: [claudiavirginiamanara@gmail.com](mailto:claudiavirginiamanara@gmail.com).
+
+---
+*Ultimo aggiornamento: Agosto 2026*

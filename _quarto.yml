@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Dott.ssa Claudia Virginia Manara"
+  navbar:
+    background: "#fcfbf9"
+    foreground: "#35433c"
+    search: false
+    right:
+      - text: "Chi sono"
+        href: "index.html#chi-sono"
+      - text: "Il percorso insieme"
+        href: "index.html#percorso-e-servizi"
+      - text: "A chi mi rivolgo"
+        href: "index.html#destinatari"
+      - text: "Bonus FVG"
+        href: "index.html#bonus"
+      - text: "Contatti"
+        href: "index.html#contatti"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
