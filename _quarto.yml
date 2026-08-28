@@ -25,3 +25,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false
