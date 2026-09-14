@@ -36,7 +36,7 @@ Sono la dottoressa Claudia V. Manara, psicologa laureata in Neuropsicologia e Ps
 Attualmente sto frequentando la Scuola di Specializzazione in Psicoterapia Sistemico Relazionale presso il Centro Padovano di Terapia della Famiglia, nella sede di Trieste.
 Inoltre, sto concludendo il dottorato di ricerca in Neuroscienze e Scienze Cognitive presso l’Università degli Studi di Trieste.
 
-Nel 2026 ho completato il primo livello di formazione *Eye Movement Desensitization and Reprocessing* ([EMDR](https://emdr.it/)).
+Ho completato il primo livello di formazione *Eye Movement Desensitization and Reprocessing* ([EMDR](https://emdr.it/)).
 
 :::
 
@@ -48,7 +48,7 @@ Nel 2026 ho completato il primo livello di formazione *Eye Movement Desensitizat
 
 Nessuna difficoltà nasce nel vuoto: quello che ci accade prende forma dentro una storia, nelle relazioni che viviamo e nei contesti a cui apparteniamo.
 
-Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viviamo non come qualcosa che appartiene esclusivamente all’individuo, ma come un’esperienza che può essere compresa alla luce della propria storia e delle proprie relazioni.
+Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viviamo come un’esperienza che può essere compresa alla luce della propria storia e delle proprie relazioni.
 
 ::: {.service-grid}
 
@@ -59,11 +59,11 @@ Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viv
 </summary>
 <div class="card-content">
 
-- Periodi di tristezza, stanchezza e perdita di interesse per ciò che prima dava piacere
-- Oscillazioni dell’umore e difficoltà a comprendere ciò che le accompagna
-- Sensazione di vuoto, disorientamento o perdita di significato
-- Emozioni intense e difficili da riconoscere, esprimere e condividere
-- Dare un senso a ciò che si prova e trovare nuovi modi per stare con le proprie emozioni
+- Periodi di tristezza, stanchezza e perdita di interesse per ciò che prima dava piacere.
+- Oscillazioni dell’umore e difficoltà a comprendere ciò che le accompagna.
+- Sensazione di vuoto, disorientamento o perdita di significato.
+- Emozioni intense e difficili da riconoscere, esprimere e condividere.
+- Dare un senso a ciò che si prova e trovare nuovi modi per stare con le proprie emozioni.
 
 </div>
 </details>
@@ -76,11 +76,11 @@ Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viv
 </summary>
 <div class="card-content">
 
-- Sentirsi poco compresi o non riuscire a trovare le parole per esprimere ciò che si prova
-- Ritrovarsi in relazioni che sembrano riproporre dinamiche già vissute
-- Desiderare vicinanza e, allo stesso tempo, temerla
-- Paura dell’abbandono, difficoltà a fidarsi o bisogno costante di conferme
-- Comprendere il proprio modo di entrare in relazione e ciò che accade nello spazio tra sé e l’altro
+- Sentirsi poco compresi o non riuscire a trovare le parole per esprimere ciò che si prova.
+- Ritrovarsi in relazioni che sembrano riproporre dinamiche già vissute.
+- Desiderare vicinanza e, allo stesso tempo, temerla.
+- Paura dell’abbandono, difficoltà a fidarsi o bisogno costante di conferme.
+- Comprendere il proprio modo di entrare in relazione e ciò che accade nello spazio tra sé e l’altro.
 
 </div>
 </details>
@@ -93,11 +93,11 @@ Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viv
 </summary>
 <div class="card-content">
 
-- Conflitti che si ripetono senza trovare una via d’uscita
-- Sentirsi lontani pur continuando a cercarsi
-- Difficoltà a parlare di ciò che si prova, si desidera o si teme
-- Crisi legate a cambiamenti, tradimenti, separazioni o perdita della fiducia
-- Cercare un nuovo modo di stare nella relazione, senza perdere di vista né sé né l’altro
+- Conflitti che si ripetono senza trovare una via d’uscita.
+- Sentirsi lontani pur continuando a cercarsi.
+- Difficoltà a parlare di ciò che si prova, si desidera o si teme.
+- Crisi legate a cambiamenti, separazioni o perdita della fiducia.
+- Cercare un nuovo modo di stare nella relazione, senza perdere di vista né sé né l’altro.
 
 </div>
 </details>
@@ -110,11 +110,11 @@ Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viv
 </summary>
 <div class="card-content">
 
-- Sentirsi inadeguati, non abbastanza o costantemente sotto giudizio
-- Faticare a riconoscere ciò che si desidera, ciò di cui si ha bisogno o ciò che si sente
-- Difficoltà nel porre limiti senza sentirsi in colpa
-- Vivere secondo aspettative e immagini di sé costruite nel tempo
-- Interrogarsi su chi si è e su chi si vuole diventare
+- Faticare a riconoscere ciò che si desidera, ciò di cui si ha bisogno o ciò che si sente.
+- Sentirsi inadeguati, non abbastanza o costantemente sotto giudizio.
+- Difficoltà nel porre limiti, senza sentirsi in colpa.
+- Vivere secondo aspettative ed immagini di sé costruite nel tempo.
+- Interrogarsi su chi si è stati, su chi si è oggi e su chi si vuole diventare.
 
 </div>
 </details>
@@ -127,11 +127,11 @@ Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viv
 </summary>
 <div class="card-content">
 
-- Difficoltà nel dialogo tra genitori e figli o tra generazioni diverse
-- Tensioni che emergono nei momenti di cambiamento della vita familiare
-- Separazioni, nuove configurazioni familiari o passaggi che richiedono una nuova organizzazione
-- Ruoli, aspettative e modalità di relazione che nel tempo sono diventati difficili da modificare
-- Comprendere ciò che sta cambiando e trovare nuovi modi di stare in relazione
+- Difficoltà nel dialogo tra genitori e figli o tra generazioni diverse.
+- Tensioni che emergono nei momenti di cambiamento della vita familiare.
+- Separazioni, nuove configurazioni familiari o passaggi che richiedono una nuova organizzazione.
+- Ruoli, aspettative e modalità di relazione che nel tempo sono diventati difficili da modificare.
+- Comprendere ciò che sta cambiando e trovare nuovi modi di stare in relazione.
 
 </div>
 </details>
@@ -144,11 +144,11 @@ Lavoro secondo l’*approccio sistemico-relazionale*, che considera ciò che viv
 </summary>
 <div class="card-content">
 
-- Sentirsi sopraffatti dalle richieste dello studio o del lavoro
-- Blocchi, insicurezza o paura di non essere all’altezza
-- Difficoltà nelle relazioni e nei contesti scolastici o professionali
-- Momenti in cui scegliere una direzione sembra particolarmente difficile
-- Interrogarsi sul proprio percorso, sulle proprie possibilità e su ciò che si desidera costruire
+- Sentirsi sopraffatti dalle richieste dello studio o del lavoro.
+- Blocchi, insicurezza o paura di non essere all’altezza.
+- Difficoltà nelle relazioni e nei contesti scolastici o professionali.
+- Momenti in cui scegliere una direzione sembra particolarmente difficile.
+- Interrogarsi sul proprio percorso, sulle proprie possibilità e su ciò che si desidera costruire.
 
 </div>
 </details>
