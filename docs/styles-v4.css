@@ -89,6 +89,20 @@ footer.footer,
   }
 }
 
+
+/* Desktop only: portrait on the left, text on the right.
+   On mobile there is no forced order, so the HTML source order wins:
+   text first, portrait second. */
+@media screen and (min-width: 1001px) {
+  .hero-image {
+    order: 1;
+  }
+
+  .hero-text {
+    order: 2;
+  }
+}
+
 .hero-image {
   flex: 0 0 340px;
   max-width: 100%;
@@ -508,6 +522,22 @@ footer.footer,
 }
 
 
+
+/* Desktop contact placement: email and phone side by side, studio below. */
+@media screen and (min-width: 1001px) {
+  .contact-email {
+    order: 1;
+  }
+
+  .contact-phone {
+    order: 2;
+  }
+
+  .contact-studio {
+    order: 3;
+  }
+}
+
 /* ==========================================================================
    9. FOOTER FINALE (FORZA 100% LARGHEZZA SENZA COMPRIMERE IL SITO)
    ========================================================================== */
@@ -640,7 +670,6 @@ footer.footer,
   }
 
   .hero-text {
-    order: 1;
     width: 100%;
     max-width: 100%;
     min-width: 0;
@@ -653,7 +682,6 @@ footer.footer,
   }
 
   .hero-image {
-    order: 2;
     flex: none;
     width: 100%;
     max-width: 280px;
@@ -811,6 +839,19 @@ footer.footer,
 
   .contact-item {
     padding: 1.5rem 1rem;
+  }
+
+  /* Mobile contact order: phone, email, studio */
+  .contact-phone {
+    order: 1 !important;
+  }
+
+  .contact-email {
+    order: 2 !important;
+  }
+
+  .contact-studio {
+    order: 3 !important;
   }
 
   /* Footer */

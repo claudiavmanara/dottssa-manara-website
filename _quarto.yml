@@ -23,6 +23,6 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles-v5.css
     toc: false
     anchor-sections: false

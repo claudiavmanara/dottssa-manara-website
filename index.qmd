@@ -2,10 +2,19 @@
 title: ""
 title-block-banner: false
 page-layout: full
-css: styles.css
+css: styles-v5.css
 ---
 
 ::: {.hero}
+
+::: {.hero-text}
+<div class="hero-heading">Uno spazio da costruire insieme</div>
+
+Ogni percorso psicologico è un'opera a più mani: non si tratta soltanto di capire cosa ci ha portati fin qui o di lenire il dolore del passato, ma di **co-costruire attivamente qualcosa di nuovo**.
+
+[Per un primo colloquio conoscitivo](#contatti){.contact-button}
+
+:::
 
 ::: {.hero-image}
 ![](images/foto-professionale.jpg)
@@ -13,15 +22,6 @@ css: styles.css
 ::: {.hero-signature}
 Dott.ssa Claudia Virginia Manara
 :::
-:::
-
-::: {.hero-text}
-# Uno spazio da costruire insieme
-
-Ogni percorso psicologico è un'opera a più mani: non si tratta soltanto di capire cosa ci ha portati fin qui o di lenire il dolore del passato, ma di **co-costruire attivamente qualcosa di nuovo**.
-
-[Per un primo colloquio conoscitivo](#contatti){.contact-button}
-
 :::
 
 :::
@@ -214,7 +214,15 @@ Per richiedere informazioni o fissare un primo colloquio puoi contattarmi attrav
 
 ::: {.contact-grid}
 
-::: {.contact-item}
+::: {.contact-item .contact-phone}
+
+### Telefono
+
+[+39 335 805 1011](tel:+393358051011)
+
+:::
+
+::: {.contact-item .contact-email}
 
 ### Email
 
@@ -222,15 +230,7 @@ Per richiedere informazioni o fissare un primo colloquio puoi contattarmi attrav
 
 :::
 
-::: {.contact-item}
-
-### Cellulare
-
-[+39 335 805 1011](tel:+393358051011)
-
-:::
-
-::: {.contact-item .full-width}
+::: {.contact-item .contact-studio .full-width}
 
 ### Studio
 
