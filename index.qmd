@@ -224,17 +224,17 @@ Per richiedere informazioni o fissare un primo colloquio puoi contattarmi attrav
 
 ::: {.contact-item}
 
-### Studio
+### Cellulare
 
-Trieste (TS)
+[+39 335 805 1011](tel:+393358051011)
 
 :::
 
 ::: {.contact-item .full-width}
 
-### Telefono
+### Studio
 
-[+39 335 805 1011](tel:+393358051011)
+Trieste (TS)
 :::
 
 :::

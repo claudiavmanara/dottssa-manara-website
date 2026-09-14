@@ -607,7 +607,7 @@ footer.footer,
 }
 
 /* MOBILE */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
 
   /* General page spacing */
   body {
@@ -623,15 +623,37 @@ footer.footer,
     font-size: 1rem !important;
   }
 
-  /* Hero */
+  /* Hero: on mobile the text card comes first and the portrait sits below it */
   .hero {
     flex-direction: column;
+    align-items: center;
     margin: 1rem;
-    padding: 1.5rem 1.2rem;
+    padding: 0;
     gap: 1.5rem;
+    width: auto;
+    max-width: calc(100% - 2rem);
+    overflow: visible;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .hero-text {
+    order: 1;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    padding: 1.5rem 1.2rem;
+    box-sizing: border-box;
+    background-color: #fcfbf9;
+    border: 1px solid #ded9d1;
+    border-radius: 20px;
+    box-shadow: 0 4px 16px rgba(40, 50, 45, 0.04);
   }
 
   .hero-image {
+    order: 2;
     flex: none;
     width: 100%;
     max-width: 280px;
@@ -664,7 +686,10 @@ footer.footer,
 
   /* General sections */
   .section-container {
+    width: 100%;
+    max-width: 100%;
     padding: 2.5rem 1.2rem;
+    overflow: hidden;
   }
 
   .section-container h2 {
@@ -686,8 +711,23 @@ footer.footer,
   }
 
   .service-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 1rem;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .service-card,
+  .service-card details,
+  .service-card summary,
+  .card-content {
+    min-width: 0;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .card-title {
+    overflow-wrap: anywhere;
   }
 
   .service-card details summary {
@@ -704,8 +744,16 @@ footer.footer,
 
   /* Target audience */
   .target-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.2rem;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .target-card {
+    min-width: 0;
+    max-width: 100%;
+    box-sizing: border-box;
   }
 
   .target-card {
@@ -751,8 +799,10 @@ footer.footer,
   }
 
   .contact-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 1rem;
+    width: 100%;
+    max-width: 100%;
   }
 
   .contact-item.full-width {
