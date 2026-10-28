@@ -27,3 +27,5 @@ format:
     css: styles-v5.css
     toc: false
     anchor-sections: false
+    header-includes: |
+      <meta name="google-site-verification" content="5XGagY6Tep7BI-yLn1Bpl85NEcYz8FtySuRrYI-KaxI" />
