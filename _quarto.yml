@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Dott.ssa Claudia Virginia Manara"
+  site-url: "https://claudiavmanara.github.io/dottssa-manara-website/"
   navbar:
     background: "#fcfbf9"
     foreground: "#35433c"
